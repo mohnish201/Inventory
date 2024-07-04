@@ -1,0 +1,69 @@
+[
+  {
+    "category": "General",
+    "menus": [
+      {
+        "name": "Add Users",
+        "href": "/settings/users/invite"
+      },
+      {
+        "name": "Item",
+        "href": "/inventory/items/create"
+      },
+      {
+        "name": "Warehouse",
+        "href": "/settings/organisation/warehouses/create"
+      },
+      {
+        "name": "Currency",
+        "href": "/settings/organisation/currencies/create"
+      },
+      {
+        "name": "Brand",
+        "href": "/settings/brands/create"
+      },
+      {
+        "name": "Manufacture",
+        "href": "/settings/manufacturers/create"
+      },
+      {
+        "name": "Role",
+        "href": "/settings/roles/create"
+      },
+      {
+        "name": "Category",
+        "href": "/settings/categories/create"
+      }
+    ]
+  },
+  {
+    "category": "Sales",
+    "menus": [
+      {
+        "name": "Customer",
+        "href": "/sales/customers/create"
+      },
+      {
+        "name": "Invoice",
+        "href": "/sales/invoices/create"
+      },
+      {
+        "name": "Sales Order",
+        "href": "/sales/orders/create"
+      }
+    ]
+  },
+  {
+    "category": "Purchase",
+    "menus": [
+      {
+        "name": "Vendor",
+        "href": "/purchase/vendors/create"
+      },
+      {
+        "name": "Purchase Order",
+        "href": "/purchase/orders/create"
+      }
+    ]
+  }
+]
